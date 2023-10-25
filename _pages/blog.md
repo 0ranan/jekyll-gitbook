@@ -11,7 +11,3 @@ layout: post
 > 现在是背景北京时间：00点11分，
 
 我从现在开始记录我的生活
-
-```python
-print("hello blog") ;
-```
