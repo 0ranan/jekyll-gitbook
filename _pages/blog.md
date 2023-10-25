@@ -1,13 +1,13 @@
 ---
-title: blog1
-author: anran0
+title: Blog
+author: Tao He
 date: 2023-10-26
 category: blog
 layout: post
 ---
 
-# 第一篇博客
+This is an about page.
 
-> 现在是背景北京时间：00点11分，
+# hello
 
-我从现在开始记录我的生活
+> 我是刘张豪
